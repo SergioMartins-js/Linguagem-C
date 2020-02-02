@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1575412040 source:/home/sergio/Documentos/Linguagem C/bucket/main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

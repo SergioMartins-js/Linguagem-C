@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553350517 source:/home/sergio/Documentos/Linguagem C/Aleatorio/main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
